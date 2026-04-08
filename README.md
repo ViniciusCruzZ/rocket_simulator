@@ -1,7 +1,7 @@
 # Rocket Simulator
 
 <p align="center">
-  <img src="assets/dashboard_preview.png" alt="Telemetry dashboard preview" width="780">
+  <img src="assets/dashboard_preview_dark.png" alt="Telemetry dashboard preview dark" width="780">
 </p>
 
 <p align="center">
